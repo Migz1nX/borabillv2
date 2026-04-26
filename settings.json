@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "",
-    "port": ,
+    "ip": "PonyMCS1.aternos.me",
+    "port": 59230,
     "version": "",
     "try-creative": false
   },
